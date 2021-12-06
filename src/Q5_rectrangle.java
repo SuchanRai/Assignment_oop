@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class rectrangle {
+public class Q5_rectrangle {
     public static void main(String[] args) {
         System.out.println("1");
         square();
