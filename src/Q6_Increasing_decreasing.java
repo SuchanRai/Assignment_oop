@@ -13,10 +13,10 @@ public class Q6_Increasing_decreasing {
             System.out.println("The number are in descending order");
         }
         else if (no1<no2 & no2<no3){
-            System.out.println("The numbers are in asscending: ");
+            System.out.println("The numbers are in ascending: ");
         }
         else {
-            System.out.println("The numbers are in neither asceding nor descending order.");
+            System.out.println("The numbers are in neither ascending nor descending order.");
         }
 
     }
